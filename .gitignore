@@ -23,5 +23,5 @@ celerybeat*
 /reports/
 /log/
 /venv/
-/httptest.log
-templates/
+/httptest.py
+/templates
