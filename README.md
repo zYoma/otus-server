@@ -39,6 +39,10 @@ mypy .
 ```
 
 ### Результаты нагрузочного тестирования
+Locust
+
+![alt text](https://i.ibb.co/sQVTfrT/2022-10-07-21-15-33.png)
+
 ``` 
 Server Software:        otus-server
 Server Hostname:        127.0.0.1
