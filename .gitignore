@@ -20,8 +20,6 @@ celerybeat*
 .coverage
 .pytest_cache
 
-/reports/
-/log/
 /venv/
 /httptest.py
-/templates
+/templates/
